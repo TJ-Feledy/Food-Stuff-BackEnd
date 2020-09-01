@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/TJ-Feledy/Food-Stuff-BackEnd/issues"
   },
-  "homepage": "https://github.com/TJ-Feledy/Food-Stuff-BackEnd#readme"
+  "homepage": "https://github.com/TJ-Feledy/Food-Stuff-BackEnd#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "knex": "^0.21.5",
+    "nodemon": "^2.0.4",
+    "postgresql": "0.0.1",
+    "sqlite3": "^5.0.0"
+  }
 }
