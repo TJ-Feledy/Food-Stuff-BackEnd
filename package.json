@@ -1,0 +1,19 @@
+{
+  "name": "food-stuff-backend",
+  "version": "1.0.0",
+  "description": "Food-Stuff backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJ-Feledy/Food-Stuff-BackEnd.git"
+  },
+  "author": "TJF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJ-Feledy/Food-Stuff-BackEnd/issues"
+  },
+  "homepage": "https://github.com/TJ-Feledy/Food-Stuff-BackEnd#readme"
+}
